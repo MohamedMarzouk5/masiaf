@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "923996637057",
+    "project_id": "masiaf",
+    "storage_bucket": "masiaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923996637057:android:c9571545caf75dbb688a80",
+        "android_client_info": {
+          "package_name": "com.example.masiaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923996637057-jaujbmu32h1m0qn6ma0vggc49nbuufcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.masiaf",
+            "certificate_hash": "368465c9ad3507e544b8b753c29db992b2d050c0"
+          }
+        },
+        {
+          "client_id": "923996637057-gr8t975ubkmp99rubpgta0u3brev3ifm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP3GjnLJIMniZjC5ThS9GQOWCQqLklwk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923996637057-gr8t975ubkmp99rubpgta0u3brev3ifm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
